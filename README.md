@@ -1,4 +1,4 @@
-**The Asian Citrus Psyllid (Diaphorina citri Kuwayama) (Hemiptera: Psyllidae) in Africa: using MaxEnt to predict current and future climatic suitability, with a focus on potential invasion routes**  
+### **The Asian Citrus Psyllid (*Diaphorina citri* Kuwayama) (Hemiptera: Psyllidae) in Africa: using MaxEnt to predict current and future climatic suitability, with a focus on potential invasion routes**  
 
 van Steenderen, C.J.M. (1), Mauda, E.V. (2), Kirkman, W. (2), Faulkner, K.T. (3,4), and Sutton, G.F. (1)  
 
