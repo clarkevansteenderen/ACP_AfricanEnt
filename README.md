@@ -1,5 +1,7 @@
 ### **The Asian Citrus Psyllid (*Diaphorina citri* Kuwayama) (Hemiptera: Psyllidae) in Africa: using species distribution models to predict current and future climatic suitability, with a focus on potential invasion routes**  
 
+Accepted for publication in African Entomology    
+
 van Steenderen, C.J.M. (1), Mauda, E.V. (2), Kirkman, W. (2), Faulkner, K.T. (3,4), and Sutton, G.F. (1)  
 
 (1) Centre for Biological Control, Department of Zoology and Entomology, Rhodes University, Makhanda/Grahamstown, 6139, South Africa  
